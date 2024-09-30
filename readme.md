@@ -1,4 +1,7 @@
 # Mindful Workday with AI
+### APP's Main Page
+
+![Sentiment Trends Graph](static/images/screen1.jpg)
 
 ## Introduction
 
@@ -68,10 +71,6 @@ To run Mindful Workday with AI, there are two approaches: using Docker or runnin
 ## Screenshots
 
 Here are a few screenshots of the application interface:
-
-### Main Page
-
-![Sentiment Trends Graph](static/images/screen1.jpg)
 
 ### Alert When Distracted
 

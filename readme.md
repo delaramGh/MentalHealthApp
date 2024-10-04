@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In today's fast-paced digital world, distractions are everywhere, making it challenging to maintain focus and mental clarity. **Mindful Workda with AI** helps users regain their concentration and track their emotional well-being throughout the day.
+In today's fast-paced digital world, distractions are everywhere, making it challenging to maintain focus and mental clarity. **Mindful Workday with AI** helps users regain their concentration and track their emotional well-being throughout the day.
 
 By leveraging state-of-the-art AI, deep learning, and computer vision, this app performs sentiment and attention analysis via webcam images. It alerts users after prolonged distraction or sadness and suggests breathing exercises for relaxation. Additionally, the app integrates **ChatGPT** to generate personalized inspirational quotes and images based on the user’s mood and journal entries.
 
